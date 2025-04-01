@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="icon-title">
+            <i class="bi bi-star-fill"></i> M <i class="bi bi-heart-fill"></i> Y  <i class="bi bi-lightning-fill"></i> S <i class="bi bi-moon-fill"></i> I <i class="bi bi-sun-fill"></i> T <i class="bi bi-check-circle-fill"></i> E
+        </h1>
+    </div>
+</body>
+</html>
